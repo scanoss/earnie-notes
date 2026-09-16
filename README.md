@@ -9,3 +9,8 @@ compliance.
 ---
 
 ## Changelog
+
+## 2026-09-14
+
+- Started keeping a public record of what ships.
+- Nothing dramatic yet. That's kind of the point.
