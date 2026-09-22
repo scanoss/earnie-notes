@@ -10,7 +10,12 @@ compliance.
 
 ## Changelog
 
+## 2026-09-22
+
+- Still here. Still shipping. Still not going to explain everything at once.
+
 ## 2026-09-14
 
 - Started keeping a public record of what ships.
 - Nothing dramatic yet. That's kind of the point.
+  
