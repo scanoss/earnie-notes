@@ -10,6 +10,11 @@ compliance.
 
 ## Changelog
 
+## 2026-09-28
+
+- One week out from something.
+- If you've been watching this log, you already know it's not nothing.
+
 ## 2026-09-22
 
 - Still here. Still shipping. Still not going to explain everything at once.
