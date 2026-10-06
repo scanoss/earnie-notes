@@ -10,6 +10,19 @@ compliance.
 
 ## Changelog
 
+## v1.0 — Release 0 — 2026-10-06
+
+Earnie is live.
+
+A continuous programme for AI governance, cryptography & PQC readiness, and
+open source license compliance — built to hold up when someone asks for the
+record, not just when someone asks for a scan.
+
+This is Release 0. There will be a Release 1. That's not a slogan, it's
+how this works now.
+
+earnie.dev
+
 ## 2026-09-28
 
 - One week out from something.
